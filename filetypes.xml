@@ -1,14 +1,19 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern="database" type="AUTO_DETECTED" />
+      <mapping pattern="mongo-differ-new-old" type="PLAIN_TEXT" />
+      <mapping pattern="merge_result" type="PLAIN_TEXT" />
+      <mapping pattern="batch_start_storm_task" type="PLAIN_TEXT" />
+      <mapping pattern=".gitginore" type="PLAIN_TEXT" />
+      <mapping pattern="user_ids" type="PLAIN_TEXT" />
+      <mapping pattern="match" type="PLAIN_TEXT" />
+      <mapping pattern="secret" type="PLAIN_TEXT" />
+      <mapping pattern="company_result" type="PLAIN_TEXT" />
+      <mapping pattern="date" type="PLAIN_TEXT" />
+      <mapping pattern="dream_topic_post" type="PLAIN_TEXT" />
+      <mapping pattern="differ" type="PLAIN_TEXT" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
