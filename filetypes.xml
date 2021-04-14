@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="user" type="AUTO_DETECTED" />
+      <mapping pattern="small_user" type="AUTO_DETECTED" />
       <mapping pattern="database" type="AUTO_DETECTED" />
       <mapping pattern="friends_news.json" type="AUTO_DETECTED" />
       <mapping pattern="mongo-differ-new-old" type="PLAIN_TEXT" />
