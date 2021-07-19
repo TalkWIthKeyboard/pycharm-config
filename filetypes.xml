@@ -1,18 +1,26 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="user" type="AUTO_DETECTED" />
+      <mapping pattern="small_user" type="AUTO_DETECTED" />
       <mapping pattern="database" type="AUTO_DETECTED" />
+      <mapping pattern="friends_news.json" type="AUTO_DETECTED" />
+      <mapping pattern=" 4000000+user" type="AUTO_DETECTED" />
+      <removed_mapping ext="csv" type="CSV" />
+      <mapping ext="csv" type="CSV/TSV" />
+      <mapping ext="tsv" type="CSV/TSV" />
       <mapping pattern="mongo-differ-new-old" type="PLAIN_TEXT" />
       <mapping pattern="merge_result" type="PLAIN_TEXT" />
       <mapping pattern="batch_start_storm_task" type="PLAIN_TEXT" />
-      <mapping pattern=".gitginore" type="PLAIN_TEXT" />
-      <mapping pattern="user_ids" type="PLAIN_TEXT" />
       <mapping pattern="match" type="PLAIN_TEXT" />
+      <mapping pattern="user_ids" type="PLAIN_TEXT" />
+      <mapping pattern=".gitginore" type="PLAIN_TEXT" />
       <mapping pattern="secret" type="PLAIN_TEXT" />
       <mapping pattern="company_result" type="PLAIN_TEXT" />
       <mapping pattern="date" type="PLAIN_TEXT" />
       <mapping pattern="dream_topic_post" type="PLAIN_TEXT" />
       <mapping pattern="differ" type="PLAIN_TEXT" />
+      <removed_mapping ext="tsv" type="TSV" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
