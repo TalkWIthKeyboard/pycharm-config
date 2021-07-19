@@ -1,42 +1,4 @@
 <application>
-  <component name="PluginAdvertiserExtensions">
-    <option name="localState">
-      <map>
-        <entry key="*.txt">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="ru.meanmail.plugin.requirements" />
-              <option name="myPluginName" value="Requirements" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*requirements*.txt">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="ru.meanmail.plugin.requirements" />
-              <option name="myPluginName" value="Requirements" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="constrains.txt">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="ru.meanmail.plugin.requirements" />
-              <option name="myPluginName" value="Requirements" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="requirements.txt">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="ru.meanmail.plugin.requirements" />
-              <option name="myPluginName" value="Requirements" />
-            </plugin>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="PluginFeatureService">
     <option name="features">
       <map>
