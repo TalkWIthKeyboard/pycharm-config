@@ -9,9 +9,9 @@
       <mapping pattern="mongo-differ-new-old" type="PLAIN_TEXT" />
       <mapping pattern="merge_result" type="PLAIN_TEXT" />
       <mapping pattern="batch_start_storm_task" type="PLAIN_TEXT" />
-      <mapping pattern="user_ids" type="PLAIN_TEXT" />
       <mapping pattern=".gitginore" type="PLAIN_TEXT" />
       <mapping pattern="match" type="PLAIN_TEXT" />
+      <mapping pattern="user_ids" type="PLAIN_TEXT" />
       <mapping pattern="secret" type="PLAIN_TEXT" />
       <mapping pattern="company_result" type="PLAIN_TEXT" />
       <mapping pattern="date" type="PLAIN_TEXT" />
